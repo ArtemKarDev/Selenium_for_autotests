@@ -1,1 +1,1 @@
-практические занятия по освоению Seleniun WebDriver с курса на платформе Steppik.
+практические занятия по освоению Selenium WebDriver с курса на платформе Steppik.
